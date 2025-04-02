@@ -11,7 +11,7 @@ sudo apt install tmux
 
 ### Now, edit ~/.tmux.conf
 ```
-nano ~/.tmux.conf
+nano ~/.tmux.conf or touch ~/.tmux.conf
 ```
 And finally, paste this code ->
 
